@@ -74,8 +74,8 @@ def pig_latin(word):
     return word + 'ay'
 
 pigging=pig_latin('mcrdc')
-print(pigging)
-
+print(pigging) 
+ 
 '''
 '''
 Question 8
