@@ -1,5 +1,5 @@
 import os
-import numpy
+
 
 '''
 Question 1
